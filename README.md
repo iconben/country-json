@@ -1,6 +1,6 @@
 ## country>json   [![Build Status](https://travis-ci.org/samayo/country-json.svg?branch=master)](https://travis-ci.org/samayo/country-json)
 
-A simple data of the world (by country) each in JSON format.
+A simple data of the world (by country/territory) each in JSON format.
 
 ### Download
 Using npm
